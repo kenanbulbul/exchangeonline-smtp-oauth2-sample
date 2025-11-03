@@ -61,8 +61,8 @@ Before running any sample:
 ## 🧩 Roadmap
 
 - [x] Exchange Online SMTP OAuth2 Sample  
-- [ ] Microsoft Graph Mail Send Sample  
-- [ ] Azure Communication Services Email Sample  
+- [x] Microsoft Graph Mail Send Sample  
+- [x] Azure Communication Services Email Sample  
 - [ ] AWS SES Email Sample  
 
 ---
